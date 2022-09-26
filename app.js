@@ -1,4 +1,4 @@
-// simple if & else if statment
+// Simple if & else if statement 
 var driverAge = prompt("Please enter your age to determine if you can drive")
 
 if (Number(driverAge) < 18) {
@@ -6,5 +6,5 @@ if (Number(driverAge) < 18) {
 } else if (Number(driverAge) === 18) {
     alert("Congratulations on your first year of driving. Enjoy the ride!!!");
 } else {
-    alert("Powering On. Enjoy the ride!!!");
+    alert("Powering On. Enjoy the ride!!!"); 
 }
