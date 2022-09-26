@@ -1,3 +1,4 @@
+// simple if & else if statment
 var driverAge = prompt("Please enter your age to determine if you can drive")
 
 if (Number(driverAge) < 18) {
